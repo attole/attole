@@ -17,7 +17,7 @@ I am a 21-year-old full-stack developer (C#, JS/TS). Passionate about creating c
 [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/attole)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sergii-kucherenko)
 
-## Active side project
+## Active side projects
 
 <a href="https://github.com/attole/obsidian-codebase">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=attole&repo=obsidian-codebase&hide_border=true&theme=discord_old_blurple&description_lines_count=3" />
