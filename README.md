@@ -1,27 +1,24 @@
-## Hi there 🦾
+## Hi there 🦭
 
-I am a 21-year-old full-stack developer (C#, JS/TS). Passionate about backend systems and creating clean, scalable systems, exploring how technologies work under the hood. I enjoy solving problems, writing maintainable code, and applying my skills and knowledge to create tools and applications that improve my quality of life. Feel free to get in touch!
+I am a 21-year-old full-stack developer (C#, JS/TS). Passionate about creating clean, efficient solutions and exploring how technologies work under the hood. I enjoy solving problems, writing maintainable code, and applying my skills and knowledge to create tools and applications that improve my quality of life. Feel free to get in touch!
 
 ## Technologies / Skills
 
 - **Languages:** C#, JavaScript/TypeScript, Python
-- **Backend:** ASP.NET Core, Web API, Identity Core, EF Core, SignalR
-- **Frontend:** HTML, SCSS, Angular
-- **Databases:** PostgreSQL, MySQL, Redis, GraphQL
-- **Other:** Docker, Google Maps Platform
-- **Concepts & Practices:** layered/clean architecture, decoupled design, OOP, SOLID, caching, concurrency
+- **Backend and frameworks:** .NET (Worker Service, SignalR, Configuration API), ASP.NET Core (Web API, MVC, Identity Core)
+- **Databases**, Entity Framework Core, MySQL, PostgreSQL, Redis, GraphQL
+- **Frontend:** HTML, CSS/SCSS, DOM, Angular Angular Material, RxJS
+- **DevOps and tools:** Swagger, Postman, Git, Docker, VMs
+- **Concepts & Practices:** layered/clean architecture, design patterns, OOP, SOLID, concurrency, caching
 
 ## Contact me
 
 [![email](https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:sergii.kucherenko.a24d3@gmail.com)
 [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/attole)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sergii-kucherenko-7262492b4)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sergii-kucherenko)
 
-## Active side projects
+## Active side project
 
-<a href="https://github.com/attole/MeetPoint">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=attole&repo=MeetPoint&hide_border=true&theme=discord_old_blurple&description_lines_count=3" />
-</a>
 <a href="https://github.com/attole/obsidian-codebase">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=attole&repo=obsidian-codebase&hide_border=true&theme=discord_old_blurple&description_lines_count=3" />
 </a>
@@ -38,6 +35,6 @@ I am a 21-year-old full-stack developer (C#, JS/TS). Passionate about backend sy
 ## 🎧 Vibes
 I am currently listening to
 
-[![spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=nborvypudxwi2crnovdz2gneg&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=true")](https://spotify-github-profile.kittinanx.com/api/view?uid=nborvypudxwi2crnovdz2gneg&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=nborvypudxwi2crnovdz2gneg&cover_image=true&theme=spotify-embed&show_offline=true&background_color=000000&interchange=false&profanity=false&mode=dark&bar_color=544d5c&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=nborvypudxwi2crnovdz2gneg&redirect=true)
 
 and either working out, coding, partying, or sleeping 🦭
